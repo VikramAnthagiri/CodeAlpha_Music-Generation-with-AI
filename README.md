@@ -144,10 +144,4 @@ The AI Music Generator project demonstrates how Artificial Intelligence can be u
 
 ## Author
 
-Name: Your Name
-
-Internship: CodeAlpha
-
-Project: AI Music Generation
-
-Year: 2026
+VIKRAM A
